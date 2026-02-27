@@ -1,123 +1,142 @@
 [
   {
     "name": "Pollo Frito Clásico (1 pieza)",
-    "default_code": "POP-01",
+    "default_code": "POP-0001",
     "list_price": 35,
-    "type": "product"
+    "type": "product",
+    "units": 20
   },
   {
     "name": "Pollo Frito Picante (1 pieza)",
-    "default_code": "POP-02",
+    "default_code": "POP-0002",
     "list_price": 35,
-    "type": "product"
+    "type": "product",
+    "units": 20
   },
   {
     "name": "Combo 2 Piezas de Pollo",
-    "default_code": "POP-03",
+    "default_code": "POP-0003",
     "list_price": 89,
-    "type": "product"
+    "type": "product",
+    "units": 15
   },
   {
     "name": "Combo 3 Piezas de Pollo",
-    "default_code": "POP-04",
+    "default_code": "POP-0004",
     "list_price": 119,
-    "type": "product"
+    "type": "product",
+    "units": 15
   },
   {
     "name": "Papas Cajún Chicas",
-    "default_code": "POP-05",
+    "default_code": "POP-0005",
     "list_price": 39,
-    "type": "product"
+    "type": "product",
+    "units": 25
   },
   {
     "name": "Papas Cajún Medianas",
-    "default_code": "POP-06",
+    "default_code": "POP-0006",
     "list_price": 49,
-    "type": "product"
+    "type": "product",
+    "units": 25
   },
   {
     "name": "Papas Cajún Grandes",
-    "default_code": "POP-07",
+    "default_code": "POP-0007",
     "list_price": 59,
-    "type": "product"
+    "type": "product",
+    "units": 25
   },
   {
     "name": "Biscuit Clásico",
-    "default_code": "POP-08",
+    "default_code": "POP-0008",
     "list_price": 25,
-    "type": "product"
+    "type": "product",
+    "units": 30
   },
   {
     "name": "Biscuit con Miel",
-    "default_code": "POP-09",
+    "default_code": "POP-0009",
     "list_price": 29,
-    "type": "product"
+    "type": "product",
+    "units": 30
   },
   {
     "name": "Chicken Sandwich Clásico",
-    "default_code": "POP-10",
+    "default_code": "POP-0010",
     "list_price": 79,
-    "type": "product"
+    "type": "product",
+    "units": 20
   },
-
   {
     "name": "Chicken Sandwich Picante",
-    "default_code": "POP-11",
+    "default_code": "POP-0011",
     "list_price": 79,
-    "type": "product"
+    "type": "product",
+    "units": 20
   },
   {
     "name": "Tiras de Pollo (3 piezas)",
-    "default_code": "POP-12",
+    "default_code": "POP-0012",
     "list_price": 69,
-    "type": "product"
+    "type": "product",
+    "units": 20
   },
   {
     "name": "Tiras de Pollo (5 piezas)",
-    "default_code": "POP-13",
+    "default_code": "POP-0013",
     "list_price": 99,
-    "type": "product"
+    "type": "product",
+    "units": 20
   },
   {
     "name": "Mac & Cheese",
-    "default_code": "POP-14",
+    "default_code": "POP-0014",
     "list_price": 45,
-    "type": "product"
+    "type": "product",
+    "units": 20
   },
   {
     "name": "Arroz Cajún",
-    "default_code": "POP-15",
+    "default_code": "POP-0015",
     "list_price": 39,
-    "type": "product"
+    "type": "product",
+    "units": 20
   },
   {
     "name": "Ensalada Coleslaw",
-    "default_code": "POP-16",
+    "default_code": "POP-0016",
     "list_price": 35,
-    "type": "product"
+    "type": "product",
+    "units": 20
   },
   {
     "name": "Refresco Chico",
-    "default_code": "POP-17",
+    "default_code": "POP-0017",
     "list_price": 29,
-    "type": "product"
+    "type": "product",
+    "units": 40
   },
   {
     "name": "Refresco Mediano",
-    "default_code": "POP-18",
+    "default_code": "POP-0018",
     "list_price": 35,
-    "type": "product"
+    "type": "product",
+    "units": 40
   },
   {
     "name": "Refresco Grande",
-    "default_code": "POP-19",
+    "default_code": "POP-0019",
     "list_price": 39,
-    "type": "product"
+    "type": "product",
+    "units": 40
   },
   {
     "name": "Combo Familiar Popeyes",
-    "default_code": "POP-20",
+    "default_code": "POP-0020",
     "list_price": 299,
-    "type": "product"
+    "type": "product",
+    "units": 10
   }
 ]
