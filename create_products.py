@@ -1,10 +1,14 @@
 import json
 import xmlrpc.client
+import os
+from dotenv import load_dotenv
 
-url = "http://localhost:8069"
-db = "-"
-username = "-"
-password = "-"
+load_dotenv()
+
+url = os.getenv("ODOO_URL")
+db = os.getenv("ODOO_DB")
+username = os.getenv("ODOO_USER")
+password = os.getenv("ODOO_PASSWORD")
 
 # Conectar
 common = xmlrpc.client.ServerProxy(f"{url}/xmlrpc/2/common")
